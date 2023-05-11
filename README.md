@@ -46,7 +46,9 @@ Prepend comments with the appropriate emoji to convey the meaning associated wit
 ---
 
 ### Credits
+Forked from
 
+* https://github.com/erikthedeveloper/code-review-emoji-guide (thanks!)
 Partially inspired by
 
 * http://dawehner.github.io/github,/code/review/2017/09/08/emoji-code-review.html
